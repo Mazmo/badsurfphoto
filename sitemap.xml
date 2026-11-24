@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://badsurfphoto.com/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/aulas-de-surf/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/aulas-de-surf/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-lessons/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/aulas-de-surf/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/contacto/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/contacto/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/contacto/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/contacto/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/galerias/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/galerias/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/galerias/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/galerias/"/>
+  
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/tubo-verde.webp</image:loc>
+      <image:title>Surfista dentro de um tubo verde sob céu azul</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/off-the-lip.webp</image:loc>
+      <image:title>Surfista a bater no lip com um rasgo de spray</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/tubo-fundo.webp</image:loc>
+      <image:title>Surfista fundo dentro da onda</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/snap-spray.webp</image:loc>
+      <image:title>Snap com leque de spray a cobrir a onda</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/rail-turn.webp</image:loc>
+      <image:title>Curva com o rail enterrado na onda</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/galerias/portefolio/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/galerias/portefolio/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/galerias/portefolio/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/galerias/portefolio/"/>
+  
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/tubo-verde.webp</image:loc>
+      <image:title>Surfista dentro de um tubo verde sob céu azul</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/off-the-lip.webp</image:loc>
+      <image:title>Surfista a bater no lip com um rasgo de spray</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/tubo-fundo.webp</image:loc>
+      <image:title>Surfista fundo dentro da onda</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/snap-spray.webp</image:loc>
+      <image:title>Snap com leque de spray a cobrir a onda</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/rail-turn.webp</image:loc>
+      <image:title>Curva com o rail enterrado na onda</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/parede-limpa.webp</image:loc>
+      <image:title>Surfista a percorrer uma parede limpa</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/tubo-carcavelos.webp</image:loc>
+      <image:title>Surfista a entrar na secção tubular</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/bottom-turn.webp</image:loc>
+      <image:title>Bottom turn a preparar a manobra seguinte</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/cutback.webp</image:loc>
+      <image:title>Cutback com spray a sair da prancha</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/contraluz.webp</image:loc>
+      <image:title>Surfista em contraluz entre spray dourado</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/linha-rapida.webp</image:loc>
+      <image:title>Surfista numa linha rápida com o forte ao fundo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/seccao-oca.webp</image:loc>
+      <image:title>Surfista encaixado numa secção oca</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/agua-escura.webp</image:loc>
+      <image:title>Surfista em água escura e vento de terra</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/preto-branco.webp</image:loc>
+      <image:title>Surfista a rasgar a onda, a preto e branco</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/onda-vazia.webp</image:loc>
+      <image:title>Onda vazia a abrir, verde e limpa</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/mar-grande.webp</image:loc>
+      <image:title>Mar grande e espuma em movimento</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/prancha-areia.webp</image:loc>
+      <image:title>Quilha e prancha na areia antes da sessão</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/surfistas-praia.webp</image:loc>
+      <image:title>Surfistas na praia a comemorar depois da sessão</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/sessoes/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/sessoes/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/sessoes/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/sessoes/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/sobre/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/sobre/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/sobre/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/sobre/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/surf-spots/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/surf-spots/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-spots/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/surf-spots/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/surf-spots/baleal/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/surf-spots/baleal/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-spots/baleal/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/surf-spots/baleal/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/surf-spots/carcavelos/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/surf-spots/carcavelos/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-spots/carcavelos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/surf-spots/carcavelos/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/surf-spots/costa-da-caparica/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/surf-spots/costa-da-caparica/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-spots/costa-da-caparica/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/surf-spots/costa-da-caparica/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/surf-spots/coxos/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/surf-spots/coxos/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-spots/coxos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/surf-spots/coxos/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/surf-spots/ericeira/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/surf-spots/ericeira/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-spots/ericeira/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/surf-spots/ericeira/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/surf-spots/foz-do-lizandro/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/surf-spots/foz-do-lizandro/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-spots/foz-do-lizandro/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/surf-spots/foz-do-lizandro/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/surf-spots/guincho/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/surf-spots/guincho/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-spots/guincho/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/surf-spots/guincho/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/surf-spots/nazare/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/surf-spots/nazare/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-spots/nazare/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/surf-spots/nazare/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/surf-spots/peniche/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/surf-spots/peniche/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-spots/peniche/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/surf-spots/peniche/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/surf-spots/praia-grande/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/surf-spots/praia-grande/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-spots/praia-grande/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/surf-spots/praia-grande/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/surf-spots/ribeira-dilhas/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/surf-spots/ribeira-dilhas/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-spots/ribeira-dilhas/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/surf-spots/ribeira-dilhas/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/surf-spots/supertubos/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/surf-spots/supertubos/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-spots/supertubos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/surf-spots/supertubos/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/videos/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/videos/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/videos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/videos/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/en/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/en/contacto/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/contacto/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/contacto/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/contacto/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/en/galerias/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/galerias/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/galerias/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/galerias/"/>
+  
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/tubo-verde.webp</image:loc>
+      <image:title>Surfer inside a green barrel under a blue sky</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/off-the-lip.webp</image:loc>
+      <image:title>Surfer hitting the lip with a burst of spray</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/tubo-fundo.webp</image:loc>
+      <image:title>Surfer deep inside the wave</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/snap-spray.webp</image:loc>
+      <image:title>Snap throwing a fan of spray across the wave</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/rail-turn.webp</image:loc>
+      <image:title>Rail buried through the turn</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/en/galerias/portefolio/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/galerias/portefolio/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/galerias/portefolio/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/galerias/portefolio/"/>
+  
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/tubo-verde.webp</image:loc>
+      <image:title>Surfer inside a green barrel under a blue sky</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/off-the-lip.webp</image:loc>
+      <image:title>Surfer hitting the lip with a burst of spray</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/tubo-fundo.webp</image:loc>
+      <image:title>Surfer deep inside the wave</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/snap-spray.webp</image:loc>
+      <image:title>Snap throwing a fan of spray across the wave</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/rail-turn.webp</image:loc>
+      <image:title>Rail buried through the turn</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/parede-limpa.webp</image:loc>
+      <image:title>Surfer running a clean wall</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/tubo-carcavelos.webp</image:loc>
+      <image:title>Surfer entering the barrel section</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/bottom-turn.webp</image:loc>
+      <image:title>Bottom turn setting up the next manoeuvre</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/cutback.webp</image:loc>
+      <image:title>Cutback with spray off the board</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/contraluz.webp</image:loc>
+      <image:title>Backlit surfer framed by golden spray</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/linha-rapida.webp</image:loc>
+      <image:title>Surfer on a fast line with the fort behind</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/seccao-oca.webp</image:loc>
+      <image:title>Surfer tucked into a hollow section</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/agua-escura.webp</image:loc>
+      <image:title>Surfer in dark water with offshore wind</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/preto-branco.webp</image:loc>
+      <image:title>Surfer tearing the wave, black and white</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/onda-vazia.webp</image:loc>
+      <image:title>Empty wave peeling green and clean</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/mar-grande.webp</image:loc>
+      <image:title>Big sea and moving whitewater</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/prancha-areia.webp</image:loc>
+      <image:title>Fin and board on the sand before the session</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://badsurfphoto.com/assets/galleries/portefolio/surfistas-praia.webp</image:loc>
+      <image:title>Surfers on the beach celebrating after the session</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/en/sessoes/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/sessoes/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/sessoes/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/sessoes/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/en/sobre/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/sobre/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/sobre/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/sobre/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/en/surf-lessons/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/aulas-de-surf/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-lessons/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/aulas-de-surf/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/en/surf-spots/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/surf-spots/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-spots/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/surf-spots/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/en/surf-spots/baleal/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/surf-spots/baleal/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-spots/baleal/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/surf-spots/baleal/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/en/surf-spots/carcavelos/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/surf-spots/carcavelos/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-spots/carcavelos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/surf-spots/carcavelos/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/en/surf-spots/costa-da-caparica/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/surf-spots/costa-da-caparica/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-spots/costa-da-caparica/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/surf-spots/costa-da-caparica/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/en/surf-spots/coxos/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/surf-spots/coxos/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-spots/coxos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/surf-spots/coxos/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/en/surf-spots/ericeira/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/surf-spots/ericeira/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-spots/ericeira/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/surf-spots/ericeira/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/en/surf-spots/foz-do-lizandro/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/surf-spots/foz-do-lizandro/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-spots/foz-do-lizandro/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/surf-spots/foz-do-lizandro/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/en/surf-spots/guincho/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/surf-spots/guincho/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-spots/guincho/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/surf-spots/guincho/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/en/surf-spots/nazare/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/surf-spots/nazare/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-spots/nazare/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/surf-spots/nazare/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/en/surf-spots/peniche/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/surf-spots/peniche/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-spots/peniche/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/surf-spots/peniche/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/en/surf-spots/praia-grande/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/surf-spots/praia-grande/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-spots/praia-grande/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/surf-spots/praia-grande/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/en/surf-spots/ribeira-dilhas/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/surf-spots/ribeira-dilhas/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-spots/ribeira-dilhas/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/surf-spots/ribeira-dilhas/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/en/surf-spots/supertubos/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/surf-spots/supertubos/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-spots/supertubos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/surf-spots/supertubos/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/en/videos/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/videos/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/videos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/videos/"/>
+  </url>
+<url><loc>https://badsurfphoto.com/surf-trip-portugal/</loc><lastmod>2026-11-22</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://badsurfphoto.com/en/surf-trip-portugal/</loc><lastmod>2026-11-22</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>  <url>
+    <loc>https://badsurfphoto.com/campeonatos-de-surf/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/campeonatos-de-surf/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-contest-photographer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/campeonatos-de-surf/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/en/surf-contest-photographer/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/campeonatos-de-surf/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-contest-photographer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/campeonatos-de-surf/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/fotografia-surf-marcas-lojas/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/fotografia-surf-marcas-lojas/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-brand-shop-photography/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/fotografia-surf-marcas-lojas/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/en/surf-brand-shop-photography/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/fotografia-surf-marcas-lojas/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-brand-shop-photography/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/fotografia-surf-marcas-lojas/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/fotografo-surf-cascais/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/fotografo-surf-cascais/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-photographer-cascais/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/fotografo-surf-cascais/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/en/surf-photographer-cascais/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/fotografo-surf-cascais/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-photographer-cascais/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/fotografo-surf-cascais/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/como-escolher-prancha-de-surf/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/como-escolher-prancha-de-surf/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/how-to-choose-a-surfboard/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/como-escolher-prancha-de-surf/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/en/how-to-choose-a-surfboard/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/como-escolher-prancha-de-surf/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/how-to-choose-a-surfboard/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/como-escolher-prancha-de-surf/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/comprar-prancha-de-surf-usada/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/comprar-prancha-de-surf-usada/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/buying-a-used-surfboard/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/comprar-prancha-de-surf-usada/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/en/buying-a-used-surfboard/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/comprar-prancha-de-surf-usada/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/buying-a-used-surfboard/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/comprar-prancha-de-surf-usada/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/como-escolher-fato-de-surf/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/como-escolher-fato-de-surf/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/how-to-choose-a-wetsuit-for-surfing/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/como-escolher-fato-de-surf/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/en/how-to-choose-a-wetsuit-for-surfing/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/como-escolher-fato-de-surf/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/how-to-choose-a-wetsuit-for-surfing/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/como-escolher-fato-de-surf/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/como-escolher-escola-de-surf-portugal/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/como-escolher-escola-de-surf-portugal/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/how-to-choose-a-surf-school-portugal/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/como-escolher-escola-de-surf-portugal/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/en/how-to-choose-a-surf-school-portugal/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/como-escolher-escola-de-surf-portugal/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/how-to-choose-a-surf-school-portugal/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/como-escolher-escola-de-surf-portugal/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/surf-camps-portugal-como-escolher/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/surf-camps-portugal-como-escolher/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-camps-portugal-how-to-choose/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/surf-camps-portugal-como-escolher/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/en/surf-camps-portugal-how-to-choose/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/surf-camps-portugal-como-escolher/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-camps-portugal-how-to-choose/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/surf-camps-portugal-como-escolher/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/aulas-de-surf-para-iniciantes/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/aulas-de-surf-para-iniciantes/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-lessons-for-beginners/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/aulas-de-surf-para-iniciantes/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/en/surf-lessons-for-beginners/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/aulas-de-surf-para-iniciantes/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-lessons-for-beginners/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/aulas-de-surf-para-iniciantes/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/treino-fisico-para-surf/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/treino-fisico-para-surf/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surfing-fitness-training/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/treino-fisico-para-surf/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/en/surfing-fitness-training/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/treino-fisico-para-surf/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surfing-fitness-training/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/treino-fisico-para-surf/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/treinador-de-surf-coaching-video/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/treinador-de-surf-coaching-video/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-coach-video-analysis/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/treinador-de-surf-coaching-video/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/en/surf-coach-video-analysis/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/treinador-de-surf-coaching-video/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-coach-video-analysis/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/treinador-de-surf-coaching-video/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/melhor-epoca-para-surfar-portugal/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/melhor-epoca-para-surfar-portugal/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/best-time-to-surf-portugal/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/melhor-epoca-para-surfar-portugal/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/en/best-time-to-surf-portugal/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/melhor-epoca-para-surfar-portugal/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/best-time-to-surf-portugal/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/melhor-epoca-para-surfar-portugal/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/equipamento-basico-de-surf-iniciantes/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/equipamento-basico-de-surf-iniciantes/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/beginner-surf-gear-checklist/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/equipamento-basico-de-surf-iniciantes/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/en/beginner-surf-gear-checklist/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/equipamento-basico-de-surf-iniciantes/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/beginner-surf-gear-checklist/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/equipamento-basico-de-surf-iniciantes/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/guias-de-surf/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/guias-de-surf/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-guides/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/guias-de-surf/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/en/surf-guides/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/guias-de-surf/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/surf-guides/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/guias-de-surf/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/politica-de-privacidade/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.30</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/politica-de-privacidade/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/privacy-policy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/politica-de-privacidade/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/en/privacy-policy/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.30</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/politica-de-privacidade/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/privacy-policy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/politica-de-privacidade/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/como-fotografar-surf/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/como-fotografar-surf/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/how-to-photograph-surfing/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/como-fotografar-surf/"/>
+  </url>
+  <url>
+    <loc>https://badsurfphoto.com/en/how-to-photograph-surfing/</loc>
+    <lastmod>2026-11-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://badsurfphoto.com/como-fotografar-surf/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://badsurfphoto.com/en/how-to-photograph-surfing/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://badsurfphoto.com/como-fotografar-surf/"/>
+  </url>
+</urlset>
