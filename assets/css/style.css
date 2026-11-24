@@ -195,3 +195,5 @@ button,input,textarea{font:inherit}
 
 .hero-media.baked{filter:none}
 .btn-red{background:#d6001c;border-color:#d6001c}
+
+.footer-sponsor{margin-top:2.4rem;padding-top:1.6rem;border-top:1px solid var(--line);display:flex;align-items:center;gap:1.1rem;flex-wrap:wrap}.footer-sponsor-label{font-family:var(--body);font-size:.78rem;letter-spacing:.18em;text-transform:uppercase;opacity:.75}.footer-sponsor-link{display:inline-flex;align-items:center;padding:.4rem .7rem;background:#fff;border:2px solid var(--ink);box-shadow:4px 4px 0 var(--red)}.footer-sponsor-link img{height:44px;width:auto;display:block}.footer-sponsor-link:hover{transform:translate(-1px,-1px);box-shadow:5px 5px 0 var(--red)}
