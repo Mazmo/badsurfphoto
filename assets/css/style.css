@@ -245,3 +245,7 @@ button,input,textarea{font:inherit}
 /* menu maior v2 */
 @media (min-width:960px){.site-nav{gap:1.5rem}.site-nav a{font-size:1.35rem;letter-spacing:.06em;line-height:1}.nav-wrap{min-height:88px}}
 @media (min-width:1280px){.site-nav{gap:1.9rem}.site-nav a{font-size:1.5rem}}
+/* menu maior v3: uma linha só */
+@media (min-width:960px){.site-nav{flex-wrap:nowrap;gap:1.15rem}.site-nav a{font-size:1.18rem;white-space:nowrap}.nav-wrap{gap:1.4rem}.brand span:not(.brand-main){white-space:nowrap}}
+@media (min-width:1280px){.site-nav{gap:1.5rem}.site-nav a{font-size:1.32rem}}
+@media (min-width:1500px){.site-nav{gap:1.8rem}.site-nav a{font-size:1.42rem}}
