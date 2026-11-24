@@ -197,3 +197,37 @@ button,input,textarea{font:inherit}
 .btn-red{background:#d6001c;border-color:#d6001c}
 
 .footer-sponsor{margin-top:2.6rem;padding-top:1.8rem;border-top:1px solid var(--line);display:flex;align-items:center;gap:1.4rem;flex-wrap:wrap}.footer-sponsor-label{font-family:var(--body);font-size:.78rem;letter-spacing:.18em;text-transform:uppercase;opacity:.75}.footer-sponsor-link{display:inline-flex;align-items:center;padding:0;background:transparent;border:0;box-shadow:none}.footer-sponsor-link img{height:clamp(72px,9vw,110px);width:auto;display:block;filter:drop-shadow(0 0 2px rgba(255,255,255,.35)) drop-shadow(0 6px 14px rgba(0,0,0,.6));transition:transform .2s}.footer-sponsor-link:hover img{transform:scale(1.04)}
+
+/* ===== Estilo panfleto (2026-11-24): etiquetas vermelhas, tiras de papel, fita adesiva, recortes ===== */
+:root{--paper-strip:#efe6d0;--tape:rgba(12,12,12,.94)}
+/* etiquetas vermelhas em máquina de escrever */
+.kicker,.eyebrow,.section-head a,.filter-btn.is-active{display:inline-block;background:var(--red);color:#fff!important;font-family:var(--body);font-weight:700;font-size:.78rem;letter-spacing:.22em;text-transform:uppercase;padding:.42rem .9rem .38rem;line-height:1.1;transform:rotate(-1deg);box-shadow:3px 3px 0 #000;clip-path:polygon(0 8%,3% 0,97% 2%,100% 10%,99% 92%,96% 100%,4% 98%,0 90%)}
+.eyebrow{margin-bottom:.6rem}
+.section-head{border-bottom:0;align-items:center}
+.section-head a{transform:rotate(1deg)}
+.section-head .eyebrow+.section-title{margin-top:.5rem}
+/* tiras de papel com fita */
+.service-card,.spot-card,.video-card,.info-card,.lead{background:var(--paper-strip);color:#111;border:0;box-shadow:6px 6px 0 rgba(0,0,0,.55),0 18px 34px rgba(0,0,0,.35);font-family:var(--body);transform:rotate(var(--r,-.6deg));position:relative;isolation:isolate}
+.service-card:nth-child(even),.spot-card:nth-child(even),.video-card:nth-child(even),.info-card:nth-child(even){--r:.7deg}
+.service-card::before,.spot-card::before,.video-card::before,.info-card::before,.lead::before,.photo-card::before{content:"";position:absolute;z-index:2;width:92px;height:22px;top:-11px;left:14px;background:var(--tape);transform:rotate(-7deg);box-shadow:0 2px 5px rgba(0,0,0,.45);inset:auto;height:22px}
+.service-card::after,.spot-card::after,.video-card::after,.info-card::after,.lead::after,.photo-card::after{content:"";position:absolute;z-index:2;width:78px;height:20px;right:12px;bottom:-10px;background:var(--tape);transform:rotate(6deg);box-shadow:0 2px 5px rgba(0,0,0,.45)}
+.service-card h2,.service-card h3,.spot-card h2,.spot-card h3,.video-card h2,.video-card h3,.info-card h2,.info-card h3{color:#111;font-family:var(--punk);font-size:clamp(1.3rem,2.6vw,1.9rem);letter-spacing:.02em;margin:.2rem 0 .4rem}
+.service-card p,.spot-card p,.video-card p,.info-card p,.lead{color:#1a1a1a;text-transform:uppercase;letter-spacing:.06em;font-size:.92rem}
+.service-card p::before{content:"• ";color:#111}
+.service-card .price,.section-dark .service-card .price{font-family:var(--body);font-weight:700;color:#111;font-size:1.65rem;letter-spacing:.04em;text-shadow:none;margin:.2rem 0}
+.service-card .price::after{content:""}
+.lead{border-left:0;padding:1rem 1.2rem;max-width:620px;text-transform:none;letter-spacing:.02em;font-size:clamp(.95rem,1.9vw,1.15rem);transform:rotate(-.4deg)}
+/* tabela de preços em papel */
+.price-table{background:var(--paper-strip);color:#111;font-family:var(--body);text-transform:uppercase;letter-spacing:.05em;box-shadow:6px 6px 0 rgba(0,0,0,.55)}
+.price-table th{font-family:var(--body);font-weight:700;background:var(--red);color:#fff;letter-spacing:.18em;font-size:.8rem}
+.price-table th,.price-table td{border-bottom:2px dashed rgba(0,0,0,.35);color:inherit}
+.price-table tr:last-child td{border-bottom:0}
+/* fotografias como recortes colados */
+.photo-card{padding:.6rem .6rem 1rem;box-shadow:6px 6px 0 rgba(0,0,0,.55),0 18px 34px rgba(0,0,0,.35);border:0;isolation:isolate}
+.photo-card img{filter:grayscale(1) contrast(1.35) brightness(.86)}
+.photo-card h2,.photo-card h3{font-family:var(--punk);color:#111;font-size:1.25rem;margin:.6rem 0 .1rem}
+.photo-card p{font-family:var(--body);text-transform:uppercase;letter-spacing:.14em;font-size:.72rem;color:#222;margin:0}
+/* citações como etiqueta de papel */
+.quote{background:var(--paper-strip);color:#111;display:inline-block;padding:1rem 1.4rem;transform:rotate(-1deg);box-shadow:6px 6px 0 rgba(0,0,0,.55);font-size:clamp(1.6rem,4vw,3.4rem);position:relative}
+.quote .scribble{border-bottom-color:var(--red)}
+@media (max-width:640px){.kicker,.eyebrow,.section-head a{font-size:.7rem;letter-spacing:.16em}.service-card::before,.service-card::after,.photo-card::before,.photo-card::after,.lead::before,.lead::after{transform:none;width:64px;height:16px}}
