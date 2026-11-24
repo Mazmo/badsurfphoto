@@ -238,3 +238,7 @@ button,input,textarea{font:inherit}
 .service-card::before,.spot-card::before,.video-card::before,.info-card::before,.photo-card::before,.lead::before{width:78px;height:18px;top:-9px;left:-14px;transform:rotate(-14deg)}
 .service-card::after,.spot-card::after,.video-card::after,.info-card::after,.photo-card::after,.lead::after{width:70px;height:18px;right:-12px;bottom:-8px;transform:rotate(12deg)}
 .photo-card{padding-top:.9rem}
+/* menu maior */
+.site-nav a{font-size:1.2rem;letter-spacing:.07em}
+@media (min-width:900px){.site-nav{gap:1.35rem}.site-nav a{font-size:1.1rem;letter-spacing:.07em;padding:.3rem 0}.nav-wrap{min-height:80px}}
+@media (min-width:1280px){.site-nav{gap:1.7rem}.site-nav a{font-size:1.22rem}}
