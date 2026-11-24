@@ -249,3 +249,8 @@ button,input,textarea{font:inherit}
 @media (min-width:960px){.site-nav{flex-wrap:nowrap;gap:1.15rem}.site-nav a{font-size:1.18rem;white-space:nowrap}.nav-wrap{gap:1.4rem}.brand span:not(.brand-main){white-space:nowrap}}
 @media (min-width:1280px){.site-nav{gap:1.5rem}.site-nav a{font-size:1.32rem}}
 @media (min-width:1500px){.site-nav{gap:1.8rem}.site-nav a{font-size:1.42rem}}
+/* menu: tamanho intermédio */
+.site-nav a{font-size:1.05rem}
+@media (min-width:960px){.site-nav{gap:1.2rem}.site-nav a{font-size:1rem}.nav-wrap{min-height:80px}}
+@media (min-width:1280px){.site-nav{gap:1.5rem}.site-nav a{font-size:1.08rem}}
+@media (min-width:1500px){.site-nav{gap:1.7rem}.site-nav a{font-size:1.14rem}}
