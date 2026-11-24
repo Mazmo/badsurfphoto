@@ -242,3 +242,6 @@ button,input,textarea{font:inherit}
 .site-nav a{font-size:1.2rem;letter-spacing:.07em}
 @media (min-width:900px){.site-nav{gap:1.35rem}.site-nav a{font-size:1.1rem;letter-spacing:.07em;padding:.3rem 0}.nav-wrap{min-height:80px}}
 @media (min-width:1280px){.site-nav{gap:1.7rem}.site-nav a{font-size:1.22rem}}
+/* menu maior v2 */
+@media (min-width:960px){.site-nav{gap:1.5rem}.site-nav a{font-size:1.35rem;letter-spacing:.06em;line-height:1}.nav-wrap{min-height:88px}}
+@media (min-width:1280px){.site-nav{gap:1.9rem}.site-nav a{font-size:1.5rem}}
