@@ -1,5 +1,5 @@
-@font-face{font-family:"Space Punk";src:url("/assets/fonts/space-punk-bold.ttf?v=20261124") format("truetype"),local("Space Punk Bold"),local("Space Punk");font-weight:400 900;font-style:normal;font-display:swap}
-@font-face{font-family:"Space Punk";src:local("Space Punk Italic"),local("Space Punk");font-weight:400;font-style:italic;font-display:swap}
+@font-face{font-family:"Space Punk";src:url("/assets/fonts/space-punk-bold.ttf?v=20261124") format("truetype");font-weight:400 900;font-style:normal;font-display:swap}@font-face{font-family:"Space Punk";src:url("/assets/fonts/space-punk-bold-italic.ttf?v=20261124") format("truetype");font-weight:400 900;font-style:italic;font-display:swap}
+
 
 :root{
  --black:#050505;
@@ -14,7 +14,7 @@
  --line:rgba(245,239,226,.18);
  --shadow:10px 10px 0 rgba(255,31,31,.75);
  --punk:"Space Punk",Impact,"Arial Black",system-ui,sans-serif;
- --punk-readable:"Impact","Arial Black","Avenir Next Condensed","DIN Condensed","Arial Narrow",Arial,Helvetica,sans-serif;
+ 
  --body:"Courier New",Courier,monospace;
  --sans:Arial,Helvetica,sans-serif
 }
@@ -51,16 +51,10 @@ button,input,textarea{font:inherit}
 .site-nav.open{display:grid}
 .site-nav a{font-family:var(--punk);text-decoration:none;text-transform:uppercase;font-weight:800;letter-spacing:.06em;padding:.82rem;border-bottom:1px dashed var(--line)}
 .site-nav a:hover,.site-nav a[aria-current=page]{color:var(--red);text-shadow:1px 1px 0 #000}
-.lang-switch{display:inline-flex;align-items:center;gap:0;border:2px solid var(--ink);background:#050505;box-shadow:4px 4px 0 var(--red);font-family:var(--punk-readable);font-weight:900;line-height:1;text-transform:uppercase;white-space:nowrap}
+.lang-switch{display:inline-flex;align-items:center;gap:0;border:2px solid var(--ink);background:#050505;box-shadow:4px 4px 0 var(--red);font-family:var(--punk);font-weight:900;line-height:1;text-transform:uppercase;white-space:nowrap}
 .lang-switch a{display:inline-flex;align-items:center;justify-content:center;min-width:42px;min-height:34px;padding:.35rem .52rem;text-decoration:none;color:var(--ink);font-size:.78rem;letter-spacing:.06em}
 .lang-switch a+a{border-left:1px solid var(--line)}
 .lang-switch a:hover,.lang-switch a[aria-current=true]{background:var(--red);color:white;text-shadow:1px 1px 0 #000}
-.accent-readable{font-family:var(--punk-readable)!important;font-weight:900!important;font-stretch:condensed;text-transform:uppercase;letter-spacing:.055em;text-shadow:2px 2px 0 #000,-1px -1px 0 rgba(255,255,255,.08),4px 0 0 rgba(255,31,31,.5);filter:contrast(1.08)}
-.site-nav a.accent-readable,.footer-nav a.accent-readable{letter-spacing:.075em;text-shadow:1px 1px 0 #000,2px 0 0 rgba(255,31,31,.65)}
-.btn.accent-readable,.booking-rail.accent-readable,.filter-btn.accent-readable{letter-spacing:.065em;text-shadow:1px 1px 0 rgba(255,255,255,.35),2px 0 0 rgba(255,31,31,.45)}
-.section-title.accent-readable,.page-title.accent-readable,.quote.accent-readable{letter-spacing:.025em;text-shadow:4px 4px 0 #000,-2px -2px 0 rgba(255,255,255,.1),7px 0 0 rgba(255,31,31,.7)}
-.quote.accent-readable .scribble{font-family:inherit!important;font-weight:inherit;color:var(--red);text-shadow:4px 4px 0 #000,-2px -2px 0 rgba(255,255,255,.08),7px 0 0 rgba(255,31,31,.85)}
-.kicker.accent-readable,.eyebrow.accent-readable{letter-spacing:.12em;text-shadow:2px 2px 0 #000,3px 0 0 rgba(255,31,31,.55)}
 
 .hero{position:relative;min-height:82vh;display:grid;align-items:end;overflow:hidden;background:#000;border-bottom:1px solid var(--line)}
 .hero-media{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;filter:grayscale(1) contrast(1.45) brightness(.52)}
