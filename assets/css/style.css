@@ -1,4 +1,4 @@
-@font-face{font-family:"Space Punk";src:url("/assets/fonts/space-punk-bold.ttf") format("truetype"),local("Space Punk Bold"),local("Space Punk");font-weight:400 900;font-style:normal;font-display:swap}
+@font-face{font-family:"Space Punk";src:url("/assets/fonts/space-punk-bold.ttf?v=20261124") format("truetype"),local("Space Punk Bold"),local("Space Punk");font-weight:400 900;font-style:normal;font-display:swap}
 @font-face{font-family:"Space Punk";src:local("Space Punk Italic"),local("Space Punk");font-weight:400;font-style:italic;font-display:swap}
 
 :root{
