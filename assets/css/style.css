@@ -231,3 +231,10 @@ button,input,textarea{font:inherit}
 .quote{background:var(--paper-strip);color:#111;display:inline-block;padding:1rem 1.4rem;transform:rotate(-1deg);box-shadow:6px 6px 0 rgba(0,0,0,.55);font-size:clamp(1.6rem,4vw,3.4rem);position:relative}
 .quote .scribble{border-bottom-color:var(--red)}
 @media (max-width:640px){.kicker,.eyebrow,.section-head a{font-size:.7rem;letter-spacing:.16em}.service-card::before,.service-card::after,.photo-card::before,.photo-card::after,.lead::before,.lead::after{transform:none;width:64px;height:16px}}
+/* acertos panfleto v2 */
+.hero .lead{background:var(--paper-strip);color:#111;border-left:0;padding:1rem 1.2rem 1rem 1.3rem;box-shadow:6px 6px 0 rgba(0,0,0,.6)}
+.service-card .price::before,.price::before{content:""}
+.service-card,.spot-card,.video-card,.info-card{padding:1.9rem 1.35rem 1.5rem}
+.service-card::before,.spot-card::before,.video-card::before,.info-card::before,.photo-card::before,.lead::before{width:78px;height:18px;top:-9px;left:-14px;transform:rotate(-14deg)}
+.service-card::after,.spot-card::after,.video-card::after,.info-card::after,.photo-card::after,.lead::after{width:70px;height:18px;right:-12px;bottom:-8px;transform:rotate(12deg)}
+.photo-card{padding-top:.9rem}
